@@ -1,0 +1,9 @@
+runfile('/Users/gabbiewink/Desktop/Mobile_Manipulation_Capstone/Results/best/best.py', wdir='/Users/gabbiewink/Desktop/Mobile_Manipulation_Capstone/Results/best')
+
+To run the script please enter any string: 
+best
+You entered:  best
+runscript
+Generating animation csv file.
+Writing error plot data.
+Done.

@@ -1,0 +1,9 @@
+In [25]: runfile('/Users/gabbiewink/Desktop/Mobile_Manipulation_Capstone/Results/overshoot/overshoot.py', wdir='/Users/gabbiewink/Desktop/Mobile_Manipulation_Capstone/Results/overshoot')
+
+To run the script please enter any string: 
+overshoot
+You entered:  overshoot
+runscript
+Generating animation csv file.
+Writing error plot data.
+Done.

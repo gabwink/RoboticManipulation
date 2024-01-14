@@ -1,0 +1,7 @@
+To run the script please enter any string: 
+newTask
+You entered:  newTask
+runscript
+Generating animation csv file.
+Writing error plot data.
+Done.
